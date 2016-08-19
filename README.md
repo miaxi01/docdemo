@@ -5,3 +5,10 @@
 为了让markdown支持更丰富的元素，不同组织和个人还开发了许多markdown扩展，例如可以支持表格、编程语言代码块、数学公式等等。
 
 http://www.jianshu.com/p/1ff6e833e2e6
+
+How to do fulltext search in Git repo?
+
+Please help to answer:
+1. Can Git repo support fulltext search ?
+2. If yes, how to do?
+3. If not, is there an alternative solution via code or 3rd tools?
